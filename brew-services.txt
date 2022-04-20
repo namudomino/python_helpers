@@ -1,0 +1,13 @@
+Name              Status User                    File
+docker-machine    none                                    
+emacs             started         narasimhanvenkadeswaran ~/Library/LaunchAgents/homebrew.mxcl.emacs.plist
+grafana           none                                    
+mongodb-community started         narasimhanvenkadeswaran ~/Library/LaunchAgents/homebrew.mxcl.mongodb-community.plist
+polipo            none                                    
+postgresql        started         narasimhanvenkadeswaran ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
+privoxy           none                                    
+rabbitmq          started         narasimhanvenkadeswaran ~/Library/LaunchAgents/homebrew.mxcl.rabbitmq.plist
+redis             none                                    
+sleepwatcher      none                                    
+unbound           none                                    
+vault             none                                    
