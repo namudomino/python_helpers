@@ -1,0 +1,22 @@
+  PID   TT  STAT      TIME COMMAND
+16399 s000  S      0:00.32 -bash
+25676 s000  S+     0:00.91 /Users/narasimhanvenkadeswaran/.pyenv/versions/3.9.7/bin/python3.9 /Users/narasimhanvenkadeswaran/.pyenv/versions/3.9.7/bin/pipenv shell
+25699 s001  Ss+    0:00.31 /bin/bash -i
+37949 s002  Ss     0:00.09 /bin/zsh -l
+38025 s002  S+     0:00.62 bash
+38892 s003  S+     0:05.75 -bash
+28513 s004  S+     0:00.74 -bash
+41643 s005  S      0:00.33 -bash
+42636 s005  S+     0:00.03 vim annotate-pods-for-nr-to-consume.txt
+62248 s006  S      0:00.83 -bash
+  PID   TT  STAT      TIME COMMAND
+16399 s000  S      0:00.32 -bash
+25676 s000  S+     0:00.91 /Users/narasimhanvenkadeswaran/.pyenv/versions/3.9.7/bin/python3.9 /Users/narasimhanvenkadeswaran/.pyenv/versions/3.9.7/bin/pipenv shell
+25699 s001  Ss+    0:00.31 /bin/bash -i
+37949 s002  Ss     0:00.09 /bin/zsh -l
+38025 s002  S+     0:00.62 bash
+38892 s003  S+     0:05.75 -bash
+28513 s004  S+     0:00.74 -bash
+41643 s005  S      0:00.33 -bash
+42636 s005  S+     0:00.03 vim annotate-pods-for-nr-to-consume.txt
+62248 s006  S      0:00.84 -bash

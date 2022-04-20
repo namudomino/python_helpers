@@ -1,0 +1,23 @@
+Routing tables
+
+Internet:
+Destination        Gateway            Flags        Netif Expire
+default            192.168.0.1        UGScg          en8       
+127                localhost          UCS            lo0       
+localhost          localhost          UH             lo0       
+169.254            link#5             UCS            en8      !
+narasimhans-macboo narasimhans-macboo UH             lo0       
+192.168.0          link#5             UCS            en8      !
+192.168.0.1/32     link#5             UCS            en8      !
+192.168.0.1        dc:ef:9:86:f7:aa   UHLWIir        en8    783
+192.168.0.19/32    link#5             UCS            en8      !
+192.168.0.22       ac:3a:7a:f2:a3:8b  UHLWI          en8   1175
+192.168.0.25       e8:db:84:c7:8d:8b  UHLWI          en8   1192
+192.168.0.33       5a:47:ed:d3:f2:a2  UHLWIi         en8    662
+192.168.0.42       64:12:36:e3:96:f1  UHLWI          en8   1174
+192.168.0.44       96:5a:3:74:37:a4   UHLWI          en8    155
+224.0.0/4          link#5             UmCS           en8      !
+224.0.0.251        1:0:5e:0:0:fb      UHmLWI         en8       
+239.255.255.250    1:0:5e:7f:ff:fa    UHmLWI         en8       
+255.255.255.255/32 link#5             UCS            en8      !
+
