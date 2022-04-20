@@ -1,0 +1,947 @@
+COMMAND     PID                    USER   FD      TYPE             DEVICE    SIZE/OFF                NODE NAME
+loginwind   159 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     2672448 1152921500312203147 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      178624 1152921500312767068 /usr/lib/pam/pam_opendirectory.so.2
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      331944 1152921500312376951 /System/Library/MessageTracer/SubmitDiagInfo.default.domains.searchtree
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      306080 1152921500312376708 /System/Library/LoginPlugins/DisplayServices.loginPlugin/Contents/MacOS/DisplayServices
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      196672 1152921500312376759 /System/Library/LoginPlugins/FSDisconnect.loginPlugin/Contents/MacOS/FSDisconnect
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      136152 1152921500312198341 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/SystemAppearance.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      655504 1152921500312376496 /System/Library/LoginPlugins/BezelServices.loginPlugin/Contents/MacOS/BezelServices
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      268144 1152921500312767040 /usr/lib/libobjc-trampolines.dylib
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      228968 1152921500312198335 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/FunctionRowAppearance.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8       71320 1152921500312198327 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/FauxVibrantDark.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     6209536            49507400 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.LaunchServices.dv/com.apple.LaunchServices-2548-v2.csstore
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     6380584 1152921500312198307 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Aqua.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     1950120 1152921500312198331 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/FauxVibrantLight.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     4746856 1152921500312198353 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/VibrantLight.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     6296632 1152921500312198317 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/DarkAqua.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     5305704 1152921500312198345 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/VibrantDark.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      300320 1152921500312169192 /System/Library/CoreServices/ManagedClient.app/Contents/PlugIns/MCXToolsInterface.bundle/Contents/MacOS/MCXToolsInterface
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      138896 1152921500312266466 /System/Library/Frameworks/FileProvider.framework/OverrideBundles/CloudDocsFileProvider.bundle/Contents/MacOS/CloudDocsFileProvider
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      142480 1152921500312266478 /System/Library/Frameworks/FileProvider.framework/OverrideBundles/FileProviderOverride.bundle/Contents/MacOS/FileProviderOverride
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8       77360 1152921500312211125 /System/Library/Extensions/AppleGFXHDA.kext/Contents/PlugIns/AppleGFXHDAHALPlugIn.bundle/Contents/MacOS/AppleGFXHDAHALPlugIn
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      495696 1152921500312266493 /System/Library/Frameworks/FileProvider.framework/OverrideBundles/FinderSyncCollaborationFileProviderOverride.bundle/Contents/MacOS/FinderSyncCollaborationFileProviderOverride
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      234960 1152921500312199333 /System/Library/CoreServices/TextInputMenuCore.bundle/Contents/MacOS/TextInputMenuCore
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8       19328               52464 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.scriptmanager2.le.cache
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      124816            45442336 /System/Library/Caches/com.apple.IntlDataCache.le.kbdx
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8       10059 1152921500312231002 /System/Library/Frameworks/AppKit.framework/Versions/C/Resources/Base.lproj/NSTextTouchBarItems.nib
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     1079048 1152921500312372189 /System/Library/Keyboard Layouts/AppleKeyboardLayouts.bundle/Contents/Resources/AppleKeyboardLayouts-L.dat
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8       98304             6489098 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.loginwindow/com.apple.metal/31001/libraries.data
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8       77824             6489108 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.loginwindow/com.apple.metal/16777237_9765376/functions.data
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     8285468 1152921500312226916 /System/Library/Fonts/SFNS.ttf
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8   159658712 1152921500312148911 /System/Library/CoreServices/CoreGlyphs.bundle/Contents/Resources/Assets.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     3366976 1152921500312198311 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Assets.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     2356684 1152921500312226858 /System/Library/Fonts/Helvetica.ttc
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     8598736 1152921500312209430 /System/Library/Extensions/AMDRadeonX6000MTLDriver.bundle/Contents/MacOS/AMDRadeonX6000MTLDriver
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8       93912 1152921500312475754 /System/Library/PrivateFrameworks/BatteryUIKit.framework/Versions/A/Resources/Assets.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     1284080 1152921500312230925 /System/Library/Frameworks/AppKit.framework/Versions/C/Resources/Assets.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      862024 1152921500312502285 /System/Library/PrivateFrameworks/CoreWLANKit.framework/Versions/A/Resources/Assets.car
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8     1702676 1152921500312226910 /System/Library/Fonts/SFCompact.ttf
+loginwind   159 narasimhanvenkadeswaran  txt       REG                1,8      197664 1152921500312767060 /usr/lib/pam/pam_localauthentication.so.2
+loginwind   159 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+loginwind   159 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+loginwind   159 narasimhanvenkadeswaran    2u      CHR                3,2     0t33164                 317 /dev/null
+loginwind   159 narasimhanvenkadeswaran    3r      REG                1,8      331944 1152921500312376951 /System/Library/MessageTracer/SubmitDiagInfo.default.domains.searchtree
+loginwind   159 narasimhanvenkadeswaran    4r      REG                1,8          77            45438383 /private/etc/security/audit_user
+loginwind   159 narasimhanvenkadeswaran    5r      REG                1,8         652            45438381 /private/etc/security/audit_class
+loginwind   159 narasimhanvenkadeswaran    6r      REG                1,8         358            45438384 /private/etc/security/audit_control
+loginwind   159 narasimhanvenkadeswaran    7u     IPv4 0xf92d2ebffa8bba11         0t0                 UDP *:*
+loginwind   159 narasimhanvenkadeswaran    8r      REG                1,8      118977 1152921500312258533 /System/Library/Frameworks/CoreImage.framework/Versions/A/Resources/ci_stdlib.metallib
+loginwind   159 narasimhanvenkadeswaran    9r      REG                1,8      320632 1152921500312258531 /System/Library/Frameworks/CoreImage.framework/Versions/A/Resources/ci_filters.metallib
+loginwind   159 narasimhanvenkadeswaran   11u      REG                1,8       98304             6489098 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.loginwindow/com.apple.metal/31001/libraries.data
+loginwind   159 narasimhanvenkadeswaran   12u      REG                1,8         604            49332348 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.loginwindow/com.apple.metal/31001/libraries.list
+loginwind   159 narasimhanvenkadeswaran   13u      REG                1,8       77824             6489108 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.loginwindow/com.apple.metal/16777237_9765376/functions.data
+loginwind   159 narasimhanvenkadeswaran   14u      REG                1,8         324            49332349 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.loginwindow/com.apple.metal/16777237_9765376/functions.list
+PrintUITo   375 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+PrintUITo   375 narasimhanvenkadeswaran  txt       REG                1,8      388016 1152921500312574306 /System/Library/PrivateFrameworks/PrintingPrivate.framework/Versions/A/PrintUITool
+PrintUITo   375 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+PrintUITo   375 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+PrintUITo   375 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+PrintUITo   375 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+PrintUITo   375 narasimhanvenkadeswaran    2u      CHR                3,2         0t0                 317 /dev/null
+PrintUITo   375 narasimhanvenkadeswaran    4u     unix 0xf92d2ec003ec3d19         0t0                     ->0xf92d2ec003ec37a1
+distnoted   480 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+distnoted   480 narasimhanvenkadeswaran  txt       REG                1,8      343984 1152921500312773684 /usr/sbin/distnoted
+distnoted   480 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+distnoted   480 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+distnoted   480 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+distnoted   480 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+distnoted   480 narasimhanvenkadeswaran    2u      CHR                3,2       0t166                 317 /dev/null
+distnoted   480 narasimhanvenkadeswaran    3u     unix 0xf92d2ebffd4152f1         0t0                     ->0xf92d2ebff724cd79
+cfprefsd    485 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+cfprefsd    485 narasimhanvenkadeswaran  txt       REG                1,8      187280 1152921500312773634 /usr/sbin/cfprefsd
+cfprefsd    485 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+cfprefsd    485 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+cfprefsd    485 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+cfprefsd    485 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+cfprefsd    485 narasimhanvenkadeswaran    2u      CHR                3,2         0t0                 317 /dev/null
+cfprefsd    485 narasimhanvenkadeswaran    3r      DIR                1,8        9504               36321 /Users/narasimhanvenkadeswaran/Library/Preferences
+UserEvent   488 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      163408 1152921500312767667 /usr/libexec/UserEventAgent
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      110272 1152921500312704910 /System/Library/UserEventPlugins/AppleHIDMouseAgent.plugin/Contents/MacOS/AppleHIDMouseAgent
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      111568 1152921500312704922 /System/Library/UserEventPlugins/BluetoothUserAgent-Plugin.plugin/Contents/MacOS/BluetoothUserAgent-Plugin
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      109168 1152921500312704934 /System/Library/UserEventPlugins/BonjourEvents.plugin/Contents/MacOS/BonjourEvents
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      110640 1152921500312704946 /System/Library/UserEventPlugins/CaptiveUserAgent.plugin/Contents/MacOS/CaptiveUserAgent
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      113264 1152921500312704958 /System/Library/UserEventPlugins/EAPOLMonitor.plugin/Contents/MacOS/EAPOLMonitor
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      107920 1152921500312705088 /System/Library/UserEventPlugins/GSSNotificationForwarder.plugin/Contents/MacOS/GSSNotificationForwarder
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      109792 1152921500312705100 /System/Library/UserEventPlugins/LocationMenu.plugin/Contents/MacOS/LocationMenu
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      108384 1152921500312705150 /System/Library/UserEventPlugins/PrinterMonitor.plugin/Contents/MacOS/PrinterMonitor
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      146656 1152921500312705162 /System/Library/UserEventPlugins/SCMonitor.plugin/Contents/MacOS/SCMonitor
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      106272 1152921500312705292 /System/Library/UserEventPlugins/SystemPolicyEvents.plugin/Contents/MacOS/SystemPolicyEvents
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      110016 1152921500312705355 /System/Library/UserEventPlugins/com.apple.alarm.plugin/Contents/MacOS/com.apple.alarm
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      107600 1152921500312705367 /System/Library/UserEventPlugins/com.apple.bonjour.plugin/Contents/MacOS/com.apple.bonjour
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      107104 1152921500312705379 /System/Library/UserEventPlugins/com.apple.cfnotification.plugin/Contents/MacOS/com.apple.cfnotification
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      106608 1152921500312705403 /System/Library/UserEventPlugins/com.apple.diskarbitration.plugin/Contents/MacOS/com.apple.diskarbitration
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      106784 1152921500312705439 /System/Library/UserEventPlugins/com.apple.iokit.matching.plugin/Contents/MacOS/com.apple.iokit.matching
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      284816 1152921500312705391 /System/Library/UserEventPlugins/com.apple.cts.plugin/Contents/MacOS/com.apple.cts
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      106432 1152921500312705415 /System/Library/UserEventPlugins/com.apple.dispatch.vfs.plugin/Contents/MacOS/com.apple.dispatch.vfs
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      108304 1152921500312705427 /System/Library/UserEventPlugins/com.apple.fsevents.matching.plugin/Contents/MacOS/com.apple.fsevents.matching
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      107216 1152921500312705451 /System/Library/UserEventPlugins/com.apple.launchd.helper.plugin/Contents/MacOS/com.apple.launchd.helper
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      106896 1152921500312705463 /System/Library/UserEventPlugins/com.apple.lockout.lifecycle.plugin/Contents/MacOS/com.apple.lockout.lifecycle
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      107232 1152921500312705499 /System/Library/UserEventPlugins/com.apple.nsurlsessiond.plugin/Contents/MacOS/com.apple.nsurlsessiond
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      229744 1152921500312705475 /System/Library/UserEventPlugins/com.apple.netsvcproxy.plugin/Contents/MacOS/com.apple.netsvcproxy
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      105312 1152921500312705523 /System/Library/UserEventPlugins/com.apple.rapport.events.plugin/Contents/MacOS/com.apple.rapport.events
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      144352 1152921500312705535 /System/Library/UserEventPlugins/com.apple.rcdevent.matching.plugin/Contents/MacOS/com.apple.rcdevent.matching
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      105920 1152921500312705550 /System/Library/UserEventPlugins/com.apple.reachability.plugin/Contents/MacOS/com.apple.reachability
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      106528 1152921500312705562 /System/Library/UserEventPlugins/com.apple.systemconfiguration.plugin/Contents/MacOS/com.apple.systemconfiguration
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      109808 1152921500312705598 /System/Library/UserEventPlugins/com.apple.time.plugin/Contents/MacOS/com.apple.time
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      107376 1152921500312705610 /System/Library/UserEventPlugins/com.apple.touchbar.matching.plugin/Contents/MacOS/com.apple.touchbar.matching
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      110176 1152921500312705622 /System/Library/UserEventPlugins/com.apple.universalaccess.events.plugin/Contents/MacOS/com.apple.universalaccess.events
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      107136 1152921500312705713 /System/Library/UserEventPlugins/com.apple.usernotificationcenter.matching.plugin/Contents/MacOS/com.apple.usernotificationcenter.matching
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      107248 1152921500312705804 /System/Library/UserEventPlugins/routined.events.plugin/Contents/MacOS/routined.events
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8      273792 1152921500312222221 /System/Library/Extensions/IOUSBHostFamily.kext/Contents/PlugIns/IOUSBLib.bundle/Contents/MacOS/IOUSBLib
+UserEvent   488 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+UserEvent   488 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+UserEvent   488 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+UserEvent   488 narasimhanvenkadeswaran    2u      CHR                3,2       0t572                 317 /dev/null
+UserEvent   488 narasimhanvenkadeswaran    3u     unix 0xf92d2ebffd415869         0t0                     ->0xf92d2ebffd417939
+UserEvent   488 narasimhanvenkadeswaran    4u     unix 0xf92d2ebffd4153b9         0t0                     ->0xf92d2ebff724cd79
+UserEvent   488 narasimhanvenkadeswaran    5r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran    6u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran    7r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran    8r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran    9r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran   10r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran   11r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran   12r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran   13u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran   14r      DIR                1,8          64            45438823 /private/var/db/PanicReporter
+UserEvent   488 narasimhanvenkadeswaran   15r      DIR                1,8         192            45438278 /private
+UserEvent   488 narasimhanvenkadeswaran   16r      DIR                1,8        3424            45438776 /private/var/db
+UserEvent   488 narasimhanvenkadeswaran   17r      DIR                1,8         992            45438731 /private/var
+UserEvent   488 narasimhanvenkadeswaran   18r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran   19r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran   20r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran   21u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran   22r      DIR                1,8          64               38334 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.lockoutagent
+UserEvent   488 narasimhanvenkadeswaran   23r      DIR                1,8        2112               36319 /Users/narasimhanvenkadeswaran/Library/Application Support
+UserEvent   488 narasimhanvenkadeswaran   24r      DIR                1,8          64             6501893 /Users/narasimhanvenkadeswaran/Library/Application Support/com.apple.exchangesync
+UserEvent   488 narasimhanvenkadeswaran   25r      DIR                1,8          64             6501893 /Users/narasimhanvenkadeswaran/Library/Application Support/com.apple.exchangesync
+UserEvent   488 narasimhanvenkadeswaran   26r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran   27r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran   28r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran   29r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran   30r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran   31r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran   32u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran   33r      DIR                1,8         544               47971 /Users/narasimhanvenkadeswaran/Library/Caches/com.apple.appstoreagent
+UserEvent   488 narasimhanvenkadeswaran   34r      DIR                1,8        1152            45439190 /private/var/run
+UserEvent   488 narasimhanvenkadeswaran   35r      DIR                1,8         992            45438731 /private/var
+UserEvent   488 narasimhanvenkadeswaran   36r      DIR                1,8         192            45438278 /private
+UserEvent   488 narasimhanvenkadeswaran   37r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran   38r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran   39r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran   40u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran   41r      DIR                1,8        2112               36319 /Users/narasimhanvenkadeswaran/Library/Application Support
+UserEvent   488 narasimhanvenkadeswaran   42r      DIR                1,8         160               52249 /Users/narasimhanvenkadeswaran/Library/studentd
+UserEvent   488 narasimhanvenkadeswaran   43r      DIR                1,8         544               47971 /Users/narasimhanvenkadeswaran/Library/Caches/com.apple.appstoreagent
+UserEvent   488 narasimhanvenkadeswaran   44r      DIR                1,8        4448               36353 /Users/narasimhanvenkadeswaran/Library/Caches
+UserEvent   488 narasimhanvenkadeswaran   45r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran   46r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran   47r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran   48r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran   49r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran   50r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran   51r      DIR                1,8         544               47971 /Users/narasimhanvenkadeswaran/Library/Caches/com.apple.appstoreagent
+UserEvent   488 narasimhanvenkadeswaran   52r      DIR                1,8         544               47971 /Users/narasimhanvenkadeswaran/Library/Caches/com.apple.appstoreagent
+UserEvent   488 narasimhanvenkadeswaran   53r      DIR                1,8        4448               36353 /Users/narasimhanvenkadeswaran/Library/Caches
+UserEvent   488 narasimhanvenkadeswaran   54r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran   55r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran   56r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran   57r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran   58r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran   59r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran   60r      DIR                1,8        2112               36319 /Users/narasimhanvenkadeswaran/Library/Application Support
+UserEvent   488 narasimhanvenkadeswaran   61r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran   62r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran   63r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran   64r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran   65r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran   66r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran   67u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran   68r      DIR                1,8        1600            45439207 /Applications
+UserEvent   488 narasimhanvenkadeswaran   69r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran   70r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran   71r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran   72r      DIR                1,8         160            45441778 /Applications/Utilities
+UserEvent   488 narasimhanvenkadeswaran   73r      DIR                1,8        1600            45439207 /Applications
+UserEvent   488 narasimhanvenkadeswaran   74r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran   75r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran   76r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran   77u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran   78r      DIR                1,8         416               39704 /Users/narasimhanvenkadeswaran/Library/Caches/GeoServices
+UserEvent   488 narasimhanvenkadeswaran   79r      DIR                1,8         608            45439201 /private/tmp
+UserEvent   488 narasimhanvenkadeswaran   80r      DIR                1,8         192            45438278 /private
+UserEvent   488 narasimhanvenkadeswaran   81u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran   82r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran   83r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran   84r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran   85r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran   86r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran   87r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran   88r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran   89u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran   90u     unix 0xf92d2ebffd416cb9         0t0                     ->0xf92d2ebffd416d81
+UserEvent   488 narasimhanvenkadeswaran   91   NPOLICY                                                    
+UserEvent   488 narasimhanvenkadeswaran   92r      DIR                1,8         512 1152921500312116911 /System/Library/ColorSync/Profiles
+UserEvent   488 narasimhanvenkadeswaran   93r      DIR                1,8         160 1152921500312115799 /System/Library/ColorSync
+UserEvent   488 narasimhanvenkadeswaran   94r      DIR                1,8        4288 1152921500311993981 /System/Library
+UserEvent   488 narasimhanvenkadeswaran   95r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran   96r      DIR                1,8         320            45432106 /Library/ColorSync/Profiles
+UserEvent   488 narasimhanvenkadeswaran   97r      DIR                1,8          96            45432105 /Library/ColorSync
+UserEvent   488 narasimhanvenkadeswaran   98r      DIR                1,8        2208            45416415 /Library
+UserEvent   488 narasimhanvenkadeswaran   99r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  100r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  101r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  102r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran  103r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran  104r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran  105r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran  106r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  107r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  108r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  109u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran  110r      DIR                1,8       10368               38342 /Users/narasimhanvenkadeswaran/Library/Containers
+UserEvent   488 narasimhanvenkadeswaran  111r      DIR                1,8       10368               38342 /Users/narasimhanvenkadeswaran/Library/Containers
+UserEvent   488 narasimhanvenkadeswaran  112r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran  113r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran  114r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran  115r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  116r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  117r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  118u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran  119r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran  120r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran  121r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran  122r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran  123r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  124r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  125r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  126u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran  127r      DIR                1,8          96                2375 /Library/Application Support/Apple/Remote Desktop
+UserEvent   488 narasimhanvenkadeswaran  128r      DIR                1,8          96                2375 /Library/Application Support/Apple/Remote Desktop
+UserEvent   488 narasimhanvenkadeswaran  129r      DIR                1,8         352            45418400 /Library/Application Support/Apple
+UserEvent   488 narasimhanvenkadeswaran  130r      DIR                1,8         640            45418399 /Library/Application Support
+UserEvent   488 narasimhanvenkadeswaran  131r      DIR                1,8        2208            45416415 /Library
+UserEvent   488 narasimhanvenkadeswaran  132r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  133r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  134r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  135u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran  136r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran  137r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran  138r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran  139r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  140r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  141r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  142r      DIR                1,8        1152            45439190 /private/var/run
+UserEvent   488 narasimhanvenkadeswaran  143r      REG                1,8           0            49509629 /Users/narasimhanvenkadeswaran/Library/studentd/isConnected
+UserEvent   488 narasimhanvenkadeswaran  144u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran  145r      DIR                1,8        1472               48890 /Users/narasimhanvenkadeswaran/Library/Mobile Documents
+UserEvent   488 narasimhanvenkadeswaran  146r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran  147r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran  148r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran  149r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  150r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  151r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  152u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran  153r      DIR                1,8        2208            45416415 /Library
+UserEvent   488 narasimhanvenkadeswaran  154r      DIR                1,8        2208            45416415 /Library
+UserEvent   488 narasimhanvenkadeswaran  155r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  156r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  157r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  158u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran  159r      DIR                1,8          64               36352 /Users/narasimhanvenkadeswaran/Library/Services
+UserEvent   488 narasimhanvenkadeswaran  160r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran  161r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran  162r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran  163r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  164r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  165r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  166u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran  167u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran  168r      DIR                1,8         416               39704 /Users/narasimhanvenkadeswaran/Library/Caches/GeoServices
+UserEvent   488 narasimhanvenkadeswaran  169r      DIR                1,8        4448               36353 /Users/narasimhanvenkadeswaran/Library/Caches
+UserEvent   488 narasimhanvenkadeswaran  170r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran  171r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran  172r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran  173r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  174r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  175r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  176u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran  177r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran  178r      DIR                1,8        2432               36318 /Users/narasimhanvenkadeswaran/Library
+UserEvent   488 narasimhanvenkadeswaran  179r      DIR                1,8       71424               36311 /Users/narasimhanvenkadeswaran
+UserEvent   488 narasimhanvenkadeswaran  180r      DIR                1,8         224               21515 /Users
+UserEvent   488 narasimhanvenkadeswaran  181r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  182r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  183r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  184u   KQUEUE                                                    count=0, state=0x8
+UserEvent   488 narasimhanvenkadeswaran  185r      REG                1,8         218            45417322 /Library/Apple/Library/Bundles/TCC_Compatibility.bundle/Contents/Resources/AllowApplicationsList.plist
+UserEvent   488 narasimhanvenkadeswaran  186r      DIR                1,8          96            45417321 /Library/Apple/Library/Bundles/TCC_Compatibility.bundle/Contents/Resources
+UserEvent   488 narasimhanvenkadeswaran  187r      DIR                1,8         192            45417313 /Library/Apple/Library/Bundles/TCC_Compatibility.bundle/Contents
+UserEvent   488 narasimhanvenkadeswaran  188r      DIR                1,8          96            45417312 /Library/Apple/Library/Bundles/TCC_Compatibility.bundle
+UserEvent   488 narasimhanvenkadeswaran  189r      DIR                1,8         192            45416435 /Library/Apple/Library/Bundles
+UserEvent   488 narasimhanvenkadeswaran  190r      DIR                1,8          96            45416434 /Library/Apple/Library
+UserEvent   488 narasimhanvenkadeswaran  191r      DIR                1,8         160            45416416 /Library/Apple
+UserEvent   488 narasimhanvenkadeswaran  192r      DIR                1,8        2208            45416415 /Library
+UserEvent   488 narasimhanvenkadeswaran  193r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  194r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  195r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  196r      DIR                1,8         160 1152921500312648171 /System/Library/Sandbox
+UserEvent   488 narasimhanvenkadeswaran  197r      DIR                1,8         160 1152921500312648171 /System/Library/Sandbox
+UserEvent   488 narasimhanvenkadeswaran  198r      DIR                1,8        4288 1152921500311993981 /System/Library
+UserEvent   488 narasimhanvenkadeswaran  199r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  200r      DIR                1,8         640            45418399 /Library/Application Support
+UserEvent   488 narasimhanvenkadeswaran  201r      DIR                1,8         640            45418399 /Library/Application Support
+UserEvent   488 narasimhanvenkadeswaran  202r      DIR                1,8        2208            45416415 /Library
+UserEvent   488 narasimhanvenkadeswaran  203r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  204r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  205r      DIR                1,8         288 1152921500311879701 /System
+UserEvent   488 narasimhanvenkadeswaran  206r      DIR                1,8         608            45439201 /private/tmp
+UserEvent   488 narasimhanvenkadeswaran  207r      DIR                1,8         128            46398372 /Library/Application Support/Logitech.localized
+UserEvent   488 narasimhanvenkadeswaran  208r      DIR                1,8         128            46398372 /Library/Application Support/Logitech.localized
+UserEvent   488 narasimhanvenkadeswaran  209r      DIR                1,8         640            45418399 /Library/Application Support
+UserEvent   488 narasimhanvenkadeswaran  210r      DIR                1,8        2208            45416415 /Library
+UserEvent   488 narasimhanvenkadeswaran  211r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+UserEvent   488 narasimhanvenkadeswaran  212r      DIR                1,8         448 1152921500312709175 /System/Volumes
+UserEvent   488 narasimhanvenkadeswaran  213r      DIR                1,8         288 1152921500311879701 /System
+knowledge   490 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+knowledge   490 narasimhanvenkadeswaran  txt       REG                1,8      232208 1152921500312773155 /usr/libexec/knowledge-agent
+knowledge   490 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+knowledge   490 narasimhanvenkadeswaran  txt       REG                1,8      268144 1152921500312767040 /usr/lib/libobjc-trampolines.dylib
+knowledge   490 narasimhanvenkadeswaran  txt       REG                1,8       32768               38042 /Users/narasimhanvenkadeswaran/Library/Application Support/Knowledge/knowledgeC.db-shm
+knowledge   490 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+knowledge   490 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+knowledge   490 narasimhanvenkadeswaran  txt       REG                1,8      331944 1152921500312376951 /System/Library/MessageTracer/SubmitDiagInfo.default.domains.searchtree
+knowledge   490 narasimhanvenkadeswaran  txt       REG                1,8       32768             8309640 /Users/narasimhanvenkadeswaran/Library/Caches/knowledge-agent/Cache.db-shm
+knowledge   490 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+knowledge   490 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+knowledge   490 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+knowledge   490 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+knowledge   490 narasimhanvenkadeswaran    2u      CHR                3,2       0t200                 317 /dev/null
+knowledge   490 narasimhanvenkadeswaran    3u      REG                1,8    15413248               38024 /Users/narasimhanvenkadeswaran/Library/Application Support/Knowledge/knowledgeC.db
+knowledge   490 narasimhanvenkadeswaran    4u      REG                1,8     3679192               38041 /Users/narasimhanvenkadeswaran/Library/Application Support/Knowledge/knowledgeC.db-wal
+knowledge   490 narasimhanvenkadeswaran    5u      REG                1,8       32768               38042 /Users/narasimhanvenkadeswaran/Library/Application Support/Knowledge/knowledgeC.db-shm
+knowledge   490 narasimhanvenkadeswaran    6r      REG                1,8      331944 1152921500312376951 /System/Library/MessageTracer/SubmitDiagInfo.default.domains.searchtree
+knowledge   490 narasimhanvenkadeswaran    7   NPOLICY                                                    
+knowledge   490 narasimhanvenkadeswaran    8u    systm 0xf92d2eccc04645b1         0t0                     [ctl com.apple.netsrc id 6 unit 51]
+knowledge   490 narasimhanvenkadeswaran   10u      REG                1,8       49152             8309636 /Users/narasimhanvenkadeswaran/Library/Caches/knowledge-agent/Cache.db
+knowledge   490 narasimhanvenkadeswaran   11u      REG                1,8      374952             8309639 /Users/narasimhanvenkadeswaran/Library/Caches/knowledge-agent/Cache.db-wal
+knowledge   490 narasimhanvenkadeswaran   12u      REG                1,8       32768             8309640 /Users/narasimhanvenkadeswaran/Library/Caches/knowledge-agent/Cache.db-shm
+knowledge   490 narasimhanvenkadeswaran   13u      REG                1,8       49152             8309636 /Users/narasimhanvenkadeswaran/Library/Caches/knowledge-agent/Cache.db
+knowledge   490 narasimhanvenkadeswaran   14u      REG                1,8      374952             8309639 /Users/narasimhanvenkadeswaran/Library/Caches/knowledge-agent/Cache.db-wal
+com.apple   491 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+com.apple   491 narasimhanvenkadeswaran  txt       REG                1,8     1437936 1152921500312482529 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+com.apple   491 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+com.apple   491 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+com.apple   491 narasimhanvenkadeswaran  txt       REG                1,8       32768            49307903 /private/var/db/mds/messages/502/se_SecurityMessages
+com.apple   491 narasimhanvenkadeswaran  txt       REG                1,8       32768             7988894 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/Analytics/CloudServicesAnalytics.db-shm
+com.apple   491 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+com.apple   491 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+com.apple   491 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+com.apple   491 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+com.apple   491 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+com.apple   491 narasimhanvenkadeswaran    2u      CHR                3,2         0t0                 317 /dev/null
+com.apple   491 narasimhanvenkadeswaran    3   NPOLICY                                                    
+com.apple   491 narasimhanvenkadeswaran    4u    systm 0xf92d2eccc1b85431         0t0                     [ctl com.apple.netsrc id 6 unit 32]
+com.apple   491 narasimhanvenkadeswaran    5u      REG                1,8       45056             7988891 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/Analytics/CloudServicesAnalytics.db
+com.apple   491 narasimhanvenkadeswaran    6u      REG                1,8      527392             7988893 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/Analytics/CloudServicesAnalytics.db-wal
+com.apple   491 narasimhanvenkadeswaran    7u      REG                1,8       32768             7988894 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/Analytics/CloudServicesAnalytics.db-shm
+lsd         493 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+lsd         493 narasimhanvenkadeswaran  txt       REG                1,8      107872 1152921500312773183 /usr/libexec/lsd
+lsd         493 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+lsd         493 narasimhanvenkadeswaran  txt       REG                1,8       32768            48920739 /private/var/db/mds/messages/502/se_SecurityMessages
+lsd         493 narasimhanvenkadeswaran  txt       REG                1,8      417344 1152921500312352462 /System/Library/Frameworks/Security.framework/Versions/A/PlugIns/csparser.bundle/Contents/MacOS/csparser
+lsd         493 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+lsd         493 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+lsd         493 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+lsd         493 narasimhanvenkadeswaran  txt       REG                1,8     6209536            49507400 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.LaunchServices.dv/com.apple.LaunchServices-2548-v2.csstore
+lsd         493 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+lsd         493 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+lsd         493 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+lsd         493 narasimhanvenkadeswaran    2u      CHR                3,2         0t0                 317 /dev/null
+lsd         493 narasimhanvenkadeswaran    3u      REG                1,8       12288               38006 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.LaunchServices.dv/com.apple.LaunchServices.trustedsignatures-502.db
+secd        495 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+secd        495 narasimhanvenkadeswaran  txt       REG                1,8     6496480 1152921500312773416 /usr/libexec/secd
+secd        495 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+secd        495 narasimhanvenkadeswaran  txt       REG                1,8       32768               36599 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/keychain-2.db-shm
+secd        495 narasimhanvenkadeswaran  txt       REG                1,8       32768               36610 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/Analytics/ckks_analytics.db-shm
+secd        495 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+secd        495 narasimhanvenkadeswaran  txt       REG                1,8       32768               38939 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/Analytics/sos_analytics.db-shm
+secd        495 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+secd        495 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+secd        495 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+secd        495 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+secd        495 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+secd        495 narasimhanvenkadeswaran    2u      CHR                3,2      0t2059                 317 /dev/null
+secd        495 narasimhanvenkadeswaran    3u     unix 0xf92d2ebffd416b29         0t0                     ->0xf92d2ebff724cd79
+secd        495 narasimhanvenkadeswaran    4u      REG                1,8     6930432               36592 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/keychain-2.db
+secd        495 narasimhanvenkadeswaran    5u      REG                1,8      251352               36598 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/keychain-2.db-wal
+secd        495 narasimhanvenkadeswaran    6u      REG                1,8       32768               36599 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/keychain-2.db-shm
+secd        495 narasimhanvenkadeswaran    7   NPOLICY                                                    
+secd        495 narasimhanvenkadeswaran    8u      REG                1,8       69632               36607 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/Analytics/ckks_analytics.db
+secd        495 narasimhanvenkadeswaran    9u      REG                1,8      168952               36609 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/Analytics/ckks_analytics.db-wal
+secd        495 narasimhanvenkadeswaran   10u      REG                1,8       32768               36610 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/Analytics/ckks_analytics.db-shm
+secd        495 narasimhanvenkadeswaran   11u      REG                1,8     6930432               36592 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/keychain-2.db
+secd        495 narasimhanvenkadeswaran   12u      REG                1,8      251352               36598 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/keychain-2.db-wal
+secd        495 narasimhanvenkadeswaran   13u      REG                1,8     6930432               36592 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/keychain-2.db
+secd        495 narasimhanvenkadeswaran   14u      REG                1,8      251352               36598 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/keychain-2.db-wal
+secd        495 narasimhanvenkadeswaran   15u      REG                1,8     6930432               36592 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/keychain-2.db
+secd        495 narasimhanvenkadeswaran   16u      REG                1,8      251352               36598 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/keychain-2.db-wal
+secd        495 narasimhanvenkadeswaran   17u      REG                1,8     6930432               36592 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/keychain-2.db
+secd        495 narasimhanvenkadeswaran   18u      REG                1,8      251352               36598 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/keychain-2.db-wal
+secd        495 narasimhanvenkadeswaran   19u      REG                1,8       45056               38936 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/Analytics/sos_analytics.db
+secd        495 narasimhanvenkadeswaran   20u      REG                1,8     2121832               38938 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/Analytics/sos_analytics.db-wal
+secd        495 narasimhanvenkadeswaran   21u      REG                1,8       32768               38939 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/Analytics/sos_analytics.db-shm
+backgroun   497 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+backgroun   497 narasimhanvenkadeswaran  txt       REG                1,8      396560 1152921500312202701 /System/Library/CoreServices/backgroundtaskmanagementagent
+backgroun   497 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+backgroun   497 narasimhanvenkadeswaran  txt       REG                1,8       32768            49307903 /private/var/db/mds/messages/502/se_SecurityMessages
+backgroun   497 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+backgroun   497 narasimhanvenkadeswaran  txt       REG                1,8      417344 1152921500312352462 /System/Library/Frameworks/Security.framework/Versions/A/PlugIns/csparser.bundle/Contents/MacOS/csparser
+backgroun   497 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+backgroun   497 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+backgroun   497 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+backgroun   497 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+backgroun   497 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+backgroun   497 narasimhanvenkadeswaran    2u      CHR                3,2       0t555                 317 /dev/null
+backgroun   497 narasimhanvenkadeswaran    3u     unix 0xf92d2ebffd4176e1         0t0                     ->0xf92d2ebff724cd79
+backgroun   497 narasimhanvenkadeswaran    4u   KQUEUE                                                    count=0, state=0x8
+backgroun   497 narasimhanvenkadeswaran    5r      DIR                1,8         704               32637 /Library/Managed Preferences
+backgroun   497 narasimhanvenkadeswaran    6r      DIR                1,8        2208            45416415 /Library
+backgroun   497 narasimhanvenkadeswaran    7r      DIR                1,8         704 1152921500311879682 /System/Volumes/Data
+backgroun   497 narasimhanvenkadeswaran    8r      DIR                1,8         448 1152921500312709175 /System/Volumes
+backgroun   497 narasimhanvenkadeswaran    9r      DIR                1,8         288 1152921500311879701 /System
+trustd      499 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+trustd      499 narasimhanvenkadeswaran  txt       REG                1,8     1234368 1152921500312773512 /usr/libexec/trustd
+trustd      499 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+trustd      499 narasimhanvenkadeswaran  txt       REG                1,8      189784 1152921500312656625 /System/Library/Security/Certificates.bundle/Contents/Resources/certsTable.data
+trustd      499 narasimhanvenkadeswaran  txt       REG                1,8       32768             6481629 /private/var/protected/trustd/valid.sqlite3-shm
+trustd      499 narasimhanvenkadeswaran  txt       REG                1,8       32768             6484478 /private/var/protected/trustd/private/A5E2EA03-ABDC-4281-BB83-6710F4484829/ocspcache.sqlite3-shm
+trustd      499 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+trustd      499 narasimhanvenkadeswaran  txt       REG                1,8       32768            48920739 /private/var/db/mds/messages/502/se_SecurityMessages
+trustd      499 narasimhanvenkadeswaran  txt       REG                1,8       54579            41999068 /private/var/db/nsurlstoraged/dafsaData.bin
+trustd      499 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+trustd      499 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+trustd      499 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+trustd      499 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+trustd      499 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+trustd      499 narasimhanvenkadeswaran    2u      CHR                3,2         0t0                 317 /dev/null
+trustd      499 narasimhanvenkadeswaran    3r      REG                1,8      217088             6481630 /private/var/protected/trustd/pinningrules.sqlite3
+trustd      499 narasimhanvenkadeswaran    4r      REG                1,8     9314304             6481625 /private/var/protected/trustd/valid.sqlite3
+trustd      499 narasimhanvenkadeswaran    5r      REG                1,8      543872             6481628 /private/var/protected/trustd/valid.sqlite3-wal
+trustd      499 narasimhanvenkadeswaran    6r      REG                1,8       32768             6481629 /private/var/protected/trustd/valid.sqlite3-shm
+trustd      499 narasimhanvenkadeswaran    7u      REG                1,8      417792             6484473 /private/var/protected/trustd/private/A5E2EA03-ABDC-4281-BB83-6710F4484829/ocspcache.sqlite3
+trustd      499 narasimhanvenkadeswaran    8u      REG                1,8     2488512             6484477 /private/var/protected/trustd/private/A5E2EA03-ABDC-4281-BB83-6710F4484829/ocspcache.sqlite3-wal
+trustd      499 narasimhanvenkadeswaran    9u      REG                1,8       32768             6484478 /private/var/protected/trustd/private/A5E2EA03-ABDC-4281-BB83-6710F4484829/ocspcache.sqlite3-shm
+trustd      499 narasimhanvenkadeswaran   10u      REG                1,8      417792             6484473 /private/var/protected/trustd/private/A5E2EA03-ABDC-4281-BB83-6710F4484829/ocspcache.sqlite3
+trustd      499 narasimhanvenkadeswaran   11u      REG                1,8     2488512             6484477 /private/var/protected/trustd/private/A5E2EA03-ABDC-4281-BB83-6710F4484829/ocspcache.sqlite3-wal
+trustd      499 narasimhanvenkadeswaran   12   NPOLICY                                                    
+trustd      499 narasimhanvenkadeswaran   13r      REG                1,8       54579            41999068 /private/var/db/nsurlstoraged/dafsaData.bin
+trustd      499 narasimhanvenkadeswaran   15u    systm 0xf92d2eccc0bbb1b1         0t0                     [ctl com.apple.netsrc id 6 unit 19]
+trustd      499 narasimhanvenkadeswaran   16u      REG                1,8       77824             6536521 /private/var/protected/trustd/private/A5E2EA03-ABDC-4281-BB83-6710F4484829/caissuercache.sqlite3
+CommCente   500 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+CommCente   500 narasimhanvenkadeswaran  txt       REG                1,8    16142480 1152921500312262162 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter
+CommCente   500 narasimhanvenkadeswaran  txt       REG                1,8     1236912 1152921500312262188 /System/Library/Frameworks/CoreTelephony.framework/Support/libSystemDetermination.dylib
+CommCente   500 narasimhanvenkadeswaran  txt       REG                1,8     4524192 1152921500312262184 /System/Library/Frameworks/CoreTelephony.framework/Support/libCommCenterAWDMetrics.dylib
+CommCente   500 narasimhanvenkadeswaran  txt       REG                1,8     1723040 1152921500312262186 /System/Library/Frameworks/CoreTelephony.framework/Support/libCommCenterCommandDrivers.dylib
+CommCente   500 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+CommCente   500 narasimhanvenkadeswaran  txt       REG                1,8      409796 1152921500312643459 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/AWDMetadata.bin
+CommCente   500 narasimhanvenkadeswaran  txt       REG                1,8       65450 1152921500311994036 /System/Library/AWD/Metadata/AwdMetadata-0x8-CommCenter.bin
+CommCente   500 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+CommCente   500 narasimhanvenkadeswaran  txt       REG                1,8       92092 1152921500312498273 /System/Library/PrivateFrameworks/CorePhoneNumbers.framework/Versions/A/Resources/CorePhoneNumbers.ruleset
+CommCente   500 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+CommCente   500 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+CommCente   500 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+CommCente   500 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+CommCente   500 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+CommCente   500 narasimhanvenkadeswaran    2u      CHR                3,2       0t599                 317 /dev/null
+CommCente   500 narasimhanvenkadeswaran    3u     unix 0xf92d2ebffd416e49         0t0                     ->0xf92d2ebff724cd79
+CommCente   500 narasimhanvenkadeswaran    4   NPOLICY                                                    
+CommCente   500 narasimhanvenkadeswaran    5u    systm 0xf92d2eccc1b85231         0t0                     [ctl com.apple.net.netagent id 2 unit 9]
+CommCente   500 narasimhanvenkadeswaran    6u    systm 0xf92d2ebff8fb30d9         0t0                     [event 1:1:b]
+CommCente   500 narasimhanvenkadeswaran    7   NPOLICY                                                    
+CommCente   500 narasimhanvenkadeswaran    8u    systm 0xf92d2eccc0e40b31         0t0                     [ctl com.apple.net.netagent id 2 unit 10]
+CommCente   500 narasimhanvenkadeswaran    9   NPOLICY                                                    
+CommCente   500 narasimhanvenkadeswaran   10u    systm 0xf92d2eccc0e070b1         0t0                     [ctl com.apple.net.netagent id 2 unit 11]
+CommCente   500 narasimhanvenkadeswaran   11   NPOLICY                                                    
+APFSUserA   501 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+APFSUserA   501 narasimhanvenkadeswaran  txt       REG                1,8      162512 1152921500312123835 /System/Library/CoreServices/APFSUserAgent
+APFSUserA   501 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+APFSUserA   501 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+APFSUserA   501 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+APFSUserA   501 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+APFSUserA   501 narasimhanvenkadeswaran    2u      CHR                3,2         0t0                 317 /dev/null
+networkse   502 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+networkse   502 narasimhanvenkadeswaran  txt       REG                1,8      364128 1152921500312773231 /usr/libexec/networkserviceproxy
+networkse   502 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+networkse   502 narasimhanvenkadeswaran  txt       REG                1,8       32768            49307903 /private/var/db/mds/messages/502/se_SecurityMessages
+networkse   502 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+networkse   502 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+networkse   502 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+networkse   502 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+networkse   502 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+networkse   502 narasimhanvenkadeswaran    2u      CHR                3,2         0t0                 317 /dev/null
+networkse   502 narasimhanvenkadeswaran    3   NPOLICY                                                    
+nsurlsess   503 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+nsurlsess   503 narasimhanvenkadeswaran  txt       REG                1,8     1438896 1152921500312773241 /usr/libexec/nsurlsessiond
+nsurlsess   503 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+nsurlsess   503 narasimhanvenkadeswaran  txt       REG                1,8      268144 1152921500312767040 /usr/lib/libobjc-trampolines.dylib
+nsurlsess   503 narasimhanvenkadeswaran  txt       REG                1,8       32768            49307903 /private/var/db/mds/messages/502/se_SecurityMessages
+nsurlsess   503 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+nsurlsess   503 narasimhanvenkadeswaran  txt       REG                1,8     6209536            49507400 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.LaunchServices.dv/com.apple.LaunchServices-2548-v2.csstore
+nsurlsess   503 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+nsurlsess   503 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+nsurlsess   503 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+nsurlsess   503 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+nsurlsess   503 narasimhanvenkadeswaran    2u      CHR                3,2         0t0                 317 /dev/null
+nsurlsess   503 narasimhanvenkadeswaran    3u    systm 0xf92d2eccc0289bb1         0t0                     [ctl com.apple.netsrc id 6 unit 28]
+nsurlsess   503 narasimhanvenkadeswaran    5   NPOLICY                                                    
+nsurlsess   503 narasimhanvenkadeswaran    7u     unix 0xf92d2ec003ec3869         0t0                     ->0xf92d2ec003ec3b89
+nsurlsess   503 narasimhanvenkadeswaran    9u     unix 0xf92d2ec003ec3b89         0t0                     ->0xf92d2ec003ec3869
+rapportd    504 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+rapportd    504 narasimhanvenkadeswaran  txt       REG                1,8     1385376 1152921500312773369 /usr/libexec/rapportd
+rapportd    504 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+rapportd    504 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+rapportd    504 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+rapportd    504 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+rapportd    504 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+rapportd    504 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+rapportd    504 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+rapportd    504 narasimhanvenkadeswaran    2u      CHR                3,2       0t630                 317 /dev/null
+rapportd    504 narasimhanvenkadeswaran    3u     unix 0xf92d2ebffd417871         0t0                     ->0xf92d2ebff724cd79
+rapportd    504 narasimhanvenkadeswaran    4   NPOLICY                                                    
+rapportd    504 narasimhanvenkadeswaran    5u     IPv4 0xf92d2ec00eeb4371         0t0                 TCP *:61435 (LISTEN)
+rapportd    504 narasimhanvenkadeswaran    6u     IPv6 0xf92d2ebffa854fb1         0t0                 TCP *:61435 (LISTEN)
+rapportd    504 narasimhanvenkadeswaran    7u     IPv4 0xf92d2ebffbc1eb61         0t0                 UDP *:*
+rapportd    504 narasimhanvenkadeswaran    8u     IPv4 0xf92d2ebffbc1e871         0t0                 UDP *:*
+rapportd    504 narasimhanvenkadeswaran    9u     unix 0xf92d2ebffd416039         0t0                     ->0xf92d2ebffd416101
+rapportd    504 narasimhanvenkadeswaran   10u     unix 0xf92d2ec003ec4741         0t0                     ->0xf92d2ec003ec3481
+rapportd    504 narasimhanvenkadeswaran   11u     unix 0xf92d2ec003ec3549         0t0                     ->0xf92d2ec003ec3931
+rapportd    504 narasimhanvenkadeswaran   12u     IPv4 0xf92d2ebff6dacfa1         0t0                 UDP *:*
+rapportd    504 narasimhanvenkadeswaran   13u     IPv4 0xf92d2ebff6db1621         0t0                 UDP *:*
+rapportd    504 narasimhanvenkadeswaran   16u     IPv4 0xf92d2ec0107247c1         0t0                 TCP 192.168.0.19:61504->192.168.0.33:49152 (ESTABLISHED)
+usernoted   506 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+usernoted   506 narasimhanvenkadeswaran  txt       REG                1,8     3410176 1152921500312773991 /usr/sbin/usernoted
+usernoted   506 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+usernoted   506 narasimhanvenkadeswaran  txt       REG                1,8      268144 1152921500312767040 /usr/lib/libobjc-trampolines.dylib
+usernoted   506 narasimhanvenkadeswaran  txt       REG                1,8       32768               38050 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.notificationcenter/db2/db-shm
+usernoted   506 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+usernoted   506 narasimhanvenkadeswaran  txt       REG                1,8       32768            49307903 /private/var/db/mds/messages/502/se_SecurityMessages
+usernoted   506 narasimhanvenkadeswaran  txt       REG                1,8      417344 1152921500312352462 /System/Library/Frameworks/Security.framework/Versions/A/PlugIns/csparser.bundle/Contents/MacOS/csparser
+usernoted   506 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+usernoted   506 narasimhanvenkadeswaran  txt       REG                1,8     6209536            49507400 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.LaunchServices.dv/com.apple.LaunchServices-2548-v2.csstore
+usernoted   506 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+usernoted   506 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+usernoted   506 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+usernoted   506 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+usernoted   506 narasimhanvenkadeswaran    2u      CHR                3,2         0t0                 317 /dev/null
+usernoted   506 narasimhanvenkadeswaran    3u     unix 0xf92d2ebffd417ac9         0t0                     ->0xf92d2ebff724cd79
+usernoted   506 narasimhanvenkadeswaran    4u      REG                1,8     1015808               38047 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.notificationcenter/db2/db
+usernoted   506 narasimhanvenkadeswaran    5u      REG                1,8     3139472               38049 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.notificationcenter/db2/db-wal
+usernoted   506 narasimhanvenkadeswaran    6u      REG                1,8       32768               38050 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.notificationcenter/db2/db-shm
+ControlSt   507 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8     1395744 1152921500312147674 /System/Library/CoreServices/ControlStrip.app/Contents/MacOS/ControlStrip
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8       71320 1152921500312198327 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/FauxVibrantDark.car
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8      136152 1152921500312198341 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/SystemAppearance.car
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8     6296632 1152921500312198317 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/DarkAqua.car
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8     5305704 1152921500312198345 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/VibrantDark.car
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8      268144 1152921500312767040 /usr/lib/libobjc-trampolines.dylib
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8       77360 1152921500312211125 /System/Library/Extensions/AppleGFXHDA.kext/Contents/PlugIns/AppleGFXHDAHALPlugIn.bundle/Contents/MacOS/AppleGFXHDAHALPlugIn
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8        2765 1152921500312148398 /System/Library/CoreServices/ControlStrip.app/Contents/XPCServices/com.apple.DFRSystemExtra.InputMenu.xpc/Contents/Resources/system-input-menu@2x.png
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8       42248 1152921500312198313 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/ControlStripAppearance.car
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8        4862 1152921500312147896 /System/Library/CoreServices/ControlStrip.app/Contents/XPCServices/com.apple.DFRSystemExtra.AirPlay.xpc/Contents/Resources/AirPlay@2x.pdf
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8       57640 1152921500312147680 /System/Library/CoreServices/ControlStrip.app/Contents/Resources/Assets.car
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8       19640 1152921500312148106 /System/Library/CoreServices/ControlStrip.app/Contents/XPCServices/com.apple.DFRSystemExtra.Dictation.xpc/Contents/Resources/Assets.car
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8        7300 1152921500312148229 /System/Library/CoreServices/ControlStrip.app/Contents/XPCServices/com.apple.DFRSystemExtra.Handwriting.xpc/Contents/Resources/handwriting@2x.pdf
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8     8285468 1152921500312226916 /System/Library/Fonts/SFNS.ttf
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8     6380584 1152921500312198307 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Aqua.car
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8      228968 1152921500312198335 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/FunctionRowAppearance.car
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8     3366976 1152921500312198311 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Assets.car
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8     2356684 1152921500312226858 /System/Library/Fonts/Helvetica.ttc
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8     1702676 1152921500312226910 /System/Library/Fonts/SFCompact.ttf
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8     8598736 1152921500312209430 /System/Library/Extensions/AMDRadeonX6000MTLDriver.bundle/Contents/MacOS/AMDRadeonX6000MTLDriver
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8       98304             6485412 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.controlstrip/com.apple.metal/31001/libraries.data
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8       73728             6485435 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.controlstrip/com.apple.metal/16777237_9765376/functions.data
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+ControlSt   507 narasimhanvenkadeswaran  txt       REG                1,8   159658712 1152921500312148911 /System/Library/CoreServices/CoreGlyphs.bundle/Contents/Resources/Assets.car
+ControlSt   507 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+ControlSt   507 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+ControlSt   507 narasimhanvenkadeswaran    2u      CHR                3,2         0t0                 317 /dev/null
+ControlSt   507 narasimhanvenkadeswaran    3r      REG                1,8      118977 1152921500312258533 /System/Library/Frameworks/CoreImage.framework/Versions/A/Resources/ci_stdlib.metallib
+ControlSt   507 narasimhanvenkadeswaran    4r      REG                1,8      320632 1152921500312258531 /System/Library/Frameworks/CoreImage.framework/Versions/A/Resources/ci_filters.metallib
+ControlSt   507 narasimhanvenkadeswaran    6u      REG                1,8       98304             6485412 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.controlstrip/com.apple.metal/31001/libraries.data
+ControlSt   507 narasimhanvenkadeswaran    7u      REG                1,8         604            49307981 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.controlstrip/com.apple.metal/31001/libraries.list
+ControlSt   507 narasimhanvenkadeswaran    8u      REG                1,8       73728             6485435 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.controlstrip/com.apple.metal/16777237_9765376/functions.data
+ControlSt   507 narasimhanvenkadeswaran    9u      REG                1,8         324            49307982 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.controlstrip/com.apple.metal/16777237_9765376/functions.list
+routined    508 narasimhanvenkadeswaran  cwd       DIR                1,8         384               38428 /Users/narasimhanvenkadeswaran/Library/Containers/com.apple.routined/Data
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8      163824 1152921500312773396 /usr/libexec/routined
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8      268144 1152921500312767040 /usr/lib/libobjc-trampolines.dylib
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8       32768               38689 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cache.sqlite-shm
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8       98304               38699 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cloud-V2.sqlite-shm
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8       32768               38716 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Local.sqlite-shm
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8      140240 1152921500312008454 /System/Library/Address Book Plug-Ins/LocalSource.sourcebundle/Contents/MacOS/LocalSource
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8      176720 1152921500312008061 /System/Library/Address Book Plug-Ins/DirectoryServices.sourcebundle/Contents/MacOS/DirectoryServices
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8       32768             7991431 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-shm
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8       32768             3366604 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-shm
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8     1531328 1152921500312007851 /System/Library/Address Book Plug-Ins/CardDAVPlugin.sourcebundle/Contents/MacOS/CardDAVPlugin
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8       32768               38704 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-shm
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+routined    508 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+routined    508 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+routined    508 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+routined    508 narasimhanvenkadeswaran    2u      CHR                3,2  0t29639703                 317 /dev/null
+routined    508 narasimhanvenkadeswaran    3   NPOLICY                                                    
+routined    508 narasimhanvenkadeswaran    4u      REG                1,8      458752               38664 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cache.sqlite
+routined    508 narasimhanvenkadeswaran    5u      REG                1,8    10788864               38690 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cloud-V2.sqlite
+routined    508 narasimhanvenkadeswaran    6u      REG                1,8       32768               38689 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cache.sqlite-shm
+routined    508 narasimhanvenkadeswaran    7u      REG                1,8           0            49307870 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/.AddressBookLocks/database.lock
+routined    508 narasimhanvenkadeswaran    8u      REG                1,8       32768               38716 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Local.sqlite-shm
+routined    508 narasimhanvenkadeswaran    9u      REG                1,8    10788864               38690 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cloud-V2.sqlite
+routined    508 narasimhanvenkadeswaran   10u      REG                1,8     2248704               38700 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Local.sqlite
+routined    508 narasimhanvenkadeswaran   11u      REG                1,8       98304               38699 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cloud-V2.sqlite-shm
+routined    508 narasimhanvenkadeswaran   12u      REG                1,8     2248704               38700 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Local.sqlite
+routined    508 narasimhanvenkadeswaran   13u      REG                1,8    33767552               38698 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cloud-V2.sqlite-wal
+routined    508 narasimhanvenkadeswaran   14u      REG                1,8    33767552               38698 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cloud-V2.sqlite-wal
+routined    508 narasimhanvenkadeswaran   15u      REG                1,8      458752               38664 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cache.sqlite
+routined    508 narasimhanvenkadeswaran   16u      REG                1,8     1713952               38688 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cache.sqlite-wal
+routined    508 narasimhanvenkadeswaran   17u      REG                1,8     2591512               38715 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Local.sqlite-wal
+routined    508 narasimhanvenkadeswaran   18u      REG                1,8     1830912             7991426 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   19u      REG                1,8     1186592             7991430 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   20u      REG                1,8       32768             7991431 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-shm
+routined    508 narasimhanvenkadeswaran   21u      REG                1,8    10788864               38690 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cloud-V2.sqlite
+routined    508 narasimhanvenkadeswaran   22u      REG                1,8    33767552               38698 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cloud-V2.sqlite-wal
+routined    508 narasimhanvenkadeswaran   23u      REG                1,8     1286144             3366599 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   24u      REG                1,8     1825192             3366603 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   25u      REG                1,8       32768             3366604 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-shm
+routined    508 narasimhanvenkadeswaran   26u      REG                1,8      745472               38621 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   27u      REG                1,8     1343152               38702 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   28u      REG                1,8       32768               38704 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-shm
+routined    508 narasimhanvenkadeswaran   29u      REG                1,8           0            49307882 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/7D03FB96-48EC-45A6-96A6-ECD283DF43A2/_LOCK
+routined    508 narasimhanvenkadeswaran   30u      REG                1,8      745472               38621 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   31u      REG                1,8     1343152               38702 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   32u      REG                1,8    10788864               38690 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cloud-V2.sqlite
+routined    508 narasimhanvenkadeswaran   33u      REG                1,8    33767552               38698 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cloud-V2.sqlite-wal
+routined    508 narasimhanvenkadeswaran   34u      REG                1,8           0            49307884 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/E7046FDA-F379-4C32-ACC2-314BF3EA02DA/_LOCK
+routined    508 narasimhanvenkadeswaran   35u      REG                1,8     1286144             3366599 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   36u      REG                1,8     1825192             3366603 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   37u      REG                1,8     1830912             7991426 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   38u      REG                1,8     1186592             7991430 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   39u      REG                1,8     1830912             7991426 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   40u      REG                1,8     1186592             7991430 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   41u      REG                1,8           0            49307905 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/5C95D299-B02F-4012-BAC1-B820016FD999/_LOCK
+routined    508 narasimhanvenkadeswaran   42u      REG                1,8     1286144             3366599 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   43u      REG                1,8     1713952               38688 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Cache.sqlite-wal
+routined    508 narasimhanvenkadeswaran   44u      REG                1,8           0            49307928 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/1A25E507-D740-478E-9AF8-E129FEB1AAB0/_LOCK
+routined    508 narasimhanvenkadeswaran   45u      REG                1,8      745472               38621 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   46u      REG                1,8     1343152               38702 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   47u      REG                1,8           0            49307931 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/5CDD052F-F8E1-4D0A-BA1A-58BF7412F174/_LOCK
+routined    508 narasimhanvenkadeswaran   48u      REG                1,8           0            49307933 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/DF29339E-B19E-4796-9028-91D9711C2D84/_LOCK
+routined    508 narasimhanvenkadeswaran   49u      REG                1,8      745472               38621 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   50u      REG                1,8           0            49308274 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/70E0BC6B-8A1B-4F98-9634-7E61B7F79E8E/_LOCK
+routined    508 narasimhanvenkadeswaran   51u      REG                1,8     1343152               38702 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   52u      REG                1,8           0            49308281 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/33CB6B16-A5EF-4682-8751-A76D16362F12/_LOCK
+routined    508 narasimhanvenkadeswaran   53u      REG                1,8           0            49308287 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/DF1717A1-0060-43B8-BDB3-F53413D5E985/_LOCK
+routined    508 narasimhanvenkadeswaran   54u      REG                1,8     1830912             7991426 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   55u      REG                1,8     1186592             7991430 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   56u      REG                1,8     1830912             7991426 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   57u      REG                1,8     1186592             7991430 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   58u      REG                1,8     2591512               38715 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/0/com.apple.routined/dv/Cache/Local.sqlite-wal
+routined    508 narasimhanvenkadeswaran   59r      DIR                1,8         416               39704 /Users/narasimhanvenkadeswaran/Library/Caches/GeoServices
+routined    508 narasimhanvenkadeswaran   60u      REG                1,8     1825192             3366603 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   61u      REG                1,8      745472               38621 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   62u      REG                1,8     1343152               38702 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   63u      REG                1,8     1286144             3366599 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   64u      REG                1,8     1825192             3366603 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   65u      REG                1,8     1286144             3366599 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   67u      REG                1,8           0            49332089 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/DDA2E2F0-313D-4CCC-8FE7-E4C8F504EB0B/_LOCK
+routined    508 narasimhanvenkadeswaran   68u      REG                1,8     1286144             3366599 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   69u      REG                1,8     1825192             3366603 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   70u      REG                1,8      745472               38621 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   71u      REG                1,8     1343152               38702 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   72u      REG                1,8     1830912             7991426 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb
+routined    508 narasimhanvenkadeswaran   73u      REG                1,8     1186592             7991430 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-wal
+routined    508 narasimhanvenkadeswaran   74u      REG                1,8           0            49343679 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/B9BEF5C5-B6C9-4CC8-98C7-B2EAD3486607/_LOCK
+routined    508 narasimhanvenkadeswaran   75u      REG                1,8           0            49380427 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/972AE074-E3CB-4D9E-B657-089E590DD376/_LOCK
+routined    508 narasimhanvenkadeswaran   76u      REG                1,8           0            49421713 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/8C4D0DDD-5E86-468E-9C1A-9FD1659CABCC/_LOCK
+routined    508 narasimhanvenkadeswaran   77u      REG                1,8           0            49439439 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/049085EE-7214-435E-9E58-513FE8731C3D/_LOCK
+routined    508 narasimhanvenkadeswaran   78u      REG                1,8           0            49458973 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.routined/.LINKS/74573728-6988-419B-9325-C3B1BEDDE367/_LOCK
+TrustedPe   509 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+TrustedPe   509 narasimhanvenkadeswaran  txt       REG                1,8     3664112 1152921500312353280 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+TrustedPe   509 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+TrustedPe   509 narasimhanvenkadeswaran  txt       REG                1,8      268144 1152921500312767040 /usr/lib/libobjc-trampolines.dylib
+TrustedPe   509 narasimhanvenkadeswaran  txt       REG                1,8       32768             7988625 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/com.apple.security.keychain-defaultContext.TrustedPeersHelper.db-shm
+TrustedPe   509 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+TrustedPe   509 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+TrustedPe   509 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+TrustedPe   509 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+TrustedPe   509 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+TrustedPe   509 narasimhanvenkadeswaran    2u      CHR                3,2         0t0                 317 /dev/null
+TrustedPe   509 narasimhanvenkadeswaran    3u      REG                1,8      446464             7988620 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/com.apple.security.keychain-defaultContext.TrustedPeersHelper.db
+TrustedPe   509 narasimhanvenkadeswaran    4u      REG                1,8     2249552             7988624 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/com.apple.security.keychain-defaultContext.TrustedPeersHelper.db-wal
+TrustedPe   509 narasimhanvenkadeswaran    5u      REG                1,8       32768             7988625 /Users/narasimhanvenkadeswaran/Library/Keychains/243065B1-A02A-5134-A496-AF7898AFAFF2/com.apple.security.keychain-defaultContext.TrustedPeersHelper.db-shm
+MirrorDis   510 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8      140192 1152921500312419727 /System/Library/PreferencePanes/Displays.prefPane/Contents/Resources/MirrorDisplays.app/Contents/MacOS/MirrorDisplays
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8      136152 1152921500312198341 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/SystemAppearance.car
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8       47000 1152921500312231173 /System/Library/Frameworks/AppKit.framework/Versions/C/Resources/NSTouchBarReducedMetricsAppearance.car
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8       71320 1152921500312198327 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/FauxVibrantDark.car
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8      268144 1152921500312767040 /usr/lib/libobjc-trampolines.dylib
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8     6296632 1152921500312198317 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/DarkAqua.car
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8     5305704 1152921500312198345 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/VibrantDark.car
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8      228968 1152921500312198335 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/FunctionRowAppearance.car
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8     1079048 1152921500312372189 /System/Library/Keyboard Layouts/AppleKeyboardLayouts.bundle/Contents/Resources/AppleKeyboardLayouts-L.dat
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8      124816            45442336 /System/Library/Caches/com.apple.IntlDataCache.le.kbdx
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8     3366976 1152921500312198311 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Assets.car
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8       65536             6508200 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.preference.displays.MirrorDisplays/com.apple.metal/31001/libraries.data
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8       45056             6508204 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.preference.displays.MirrorDisplays/com.apple.metal/16777237_9765376/functions.data
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8     8285468 1152921500312226916 /System/Library/Fonts/SFNS.ttf
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8     6380584 1152921500312198307 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Aqua.car
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8   159658712 1152921500312148911 /System/Library/CoreServices/CoreGlyphs.bundle/Contents/Resources/Assets.car
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8     2356684 1152921500312226858 /System/Library/Fonts/Helvetica.ttc
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8     1702676 1152921500312226910 /System/Library/Fonts/SFCompact.ttf
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+MirrorDis   510 narasimhanvenkadeswaran  txt       REG                1,8     8598736 1152921500312209430 /System/Library/Extensions/AMDRadeonX6000MTLDriver.bundle/Contents/MacOS/AMDRadeonX6000MTLDriver
+MirrorDis   510 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+MirrorDis   510 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+MirrorDis   510 narasimhanvenkadeswaran    2u      CHR                3,2     0t66753                 317 /dev/null
+MirrorDis   510 narasimhanvenkadeswaran    3r      REG                1,8      118977 1152921500312258533 /System/Library/Frameworks/CoreImage.framework/Versions/A/Resources/ci_stdlib.metallib
+MirrorDis   510 narasimhanvenkadeswaran    4r      REG                1,8      320632 1152921500312258531 /System/Library/Frameworks/CoreImage.framework/Versions/A/Resources/ci_filters.metallib
+MirrorDis   510 narasimhanvenkadeswaran    6u      REG                1,8       65536             6508200 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.preference.displays.MirrorDisplays/com.apple.metal/31001/libraries.data
+MirrorDis   510 narasimhanvenkadeswaran    7u      REG                1,8         380            49332709 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.preference.displays.MirrorDisplays/com.apple.metal/31001/libraries.list
+MirrorDis   510 narasimhanvenkadeswaran    8u      REG                1,8       45056             6508204 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.preference.displays.MirrorDisplays/com.apple.metal/16777237_9765376/functions.data
+MirrorDis   510 narasimhanvenkadeswaran    9u      REG                1,8         212            49332710 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.preference.displays.MirrorDisplays/com.apple.metal/16777237_9765376/functions.list
+CalendarA   511 narasimhanvenkadeswaran  cwd       DIR                1,8         384               38480 /Users/narasimhanvenkadeswaran/Library/Containers/com.apple.CalendarAgent/Data
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8      145216 1152921500312477421 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8     1197424 1152921500312477426 /System/Library/PrivateFrameworks/CalendarAgent.framework/Versions/A/CalendarAgent
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8      268144 1152921500312767040 /usr/lib/libobjc-trampolines.dylib
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8       32768               38693 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-shm
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8      331944 1152921500312376951 /System/Library/MessageTracer/SubmitDiagInfo.default.domains.searchtree
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8       32768             3366604 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-shm
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8       32768             7991431 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-shm
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8       32768               38704 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-shm
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8      140240 1152921500312008454 /System/Library/Address Book Plug-Ins/LocalSource.sourcebundle/Contents/MacOS/LocalSource
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8      176720 1152921500312008061 /System/Library/Address Book Plug-Ins/DirectoryServices.sourcebundle/Contents/MacOS/DirectoryServices
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8     1531328 1152921500312007851 /System/Library/Address Book Plug-Ins/CardDAVPlugin.sourcebundle/Contents/MacOS/CardDAVPlugin
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8       32768            49307903 /private/var/db/mds/messages/502/se_SecurityMessages
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8     3748416 1152921500312504207 /System/Library/PrivateFrameworks/DataDetectorsCore.framework/Versions/A/Resources/com.apple.datadetectorscore.cache.full.default.system
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8    27971344 1152921500312778509 /usr/share/langid/langid.inv
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8       16072 1152921500312479455 /System/Library/PrivateFrameworks/CalendarUIKit.framework/Versions/A/Resources/TextEffects.car
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8       32768             3366689 /Users/narasimhanvenkadeswaran/Library/Containers/com.apple.CalendarAgent/Data/Library/Caches/com.apple.CalendarAgent/Cache.db-shm
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8      459056 1152921500312497243 /System/Library/PrivateFrameworks/CoreNLP.framework/Versions/A/Resources/tokruleLE.data
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8       71320 1152921500312198327 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/FauxVibrantDark.car
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8      136152 1152921500312198341 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/SystemAppearance.car
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8     6380584 1152921500312198307 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Aqua.car
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8     6296632 1152921500312198317 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/DarkAqua.car
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8     5305704 1152921500312198345 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/VibrantDark.car
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8     8285468 1152921500312226916 /System/Library/Fonts/SFNS.ttf
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8     2356684 1152921500312226858 /System/Library/Fonts/Helvetica.ttc
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8      167936             6611530 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.CalendarAgent/com.apple.CalendarAgent/com.apple.metal/31001/libraries.data
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8     8598736 1152921500312209430 /System/Library/Extensions/AMDRadeonX6000MTLDriver.bundle/Contents/MacOS/AMDRadeonX6000MTLDriver
+CalendarA   511 narasimhanvenkadeswaran  txt       REG                1,8      172032             6611533 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.CalendarAgent/com.apple.CalendarAgent/com.apple.metal/16777237_9765376/functions.data
+CalendarA   511 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+CalendarA   511 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+CalendarA   511 narasimhanvenkadeswaran    2u      CHR                3,2     0t63047                 317 /dev/null
+CalendarA   511 narasimhanvenkadeswaran    3u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran    4u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran    5u      REG                1,8       32768               38693 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-shm
+CalendarA   511 narasimhanvenkadeswaran    6u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran    7u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran    8u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran    9u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran   10u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   11u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran   12r      REG                1,8      331944 1152921500312376951 /System/Library/MessageTracer/SubmitDiagInfo.default.domains.searchtree
+CalendarA   511 narasimhanvenkadeswaran   13u      REG                1,8           0            49307870 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/.AddressBookLocks/database.lock
+CalendarA   511 narasimhanvenkadeswaran   14u      REG                1,8     1286144             3366599 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   15u      REG                1,8     1825192             3366603 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   16u      REG                1,8       32768             3366604 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-shm
+CalendarA   511 narasimhanvenkadeswaran   17u      REG                1,8     1830912             7991426 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   18u      REG                1,8     1186592             7991430 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   19u      REG                1,8       32768             7991431 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-shm
+CalendarA   511 narasimhanvenkadeswaran   20u      REG                1,8      745472               38621 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   21u      REG                1,8     1343152               38702 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   22u      REG                1,8       32768               38704 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-shm
+CalendarA   511 narasimhanvenkadeswaran   23u      REG                1,8     1830912             7991426 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   24u      REG                1,8     1186592             7991430 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   25u      REG                1,8     1286144             3366599 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   26u      REG                1,8     1825192             3366603 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   27u      REG                1,8      745472               38621 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   28u      REG                1,8     1343152               38702 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   29u      REG                1,8           0            49307950 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.CalendarAgent/.LINKS/E6248720-2280-47F7-960E-EF9BF1A3F6A3/_LOCK
+CalendarA   511 narasimhanvenkadeswaran   30u      REG                1,8           0            49307952 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.CalendarAgent/.LINKS/7A6BC586-F8CD-4C5D-99D7-4B16289873C8/_LOCK
+CalendarA   511 narasimhanvenkadeswaran   31u      REG                1,8     1830912             7991426 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   32u      REG                1,8     1186592             7991430 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   33u      REG                1,8           0            49307971 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.CalendarAgent/.LINKS/E4763D67-BB56-40A4-A8FB-D589C6C128A8/_LOCK
+CalendarA   511 narasimhanvenkadeswaran   34u      REG                1,8     1286144             3366599 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   35u      REG                1,8     1825192             3366603 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   36u      REG                1,8           0            49307974 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.CalendarAgent/.LINKS/B5DE3664-51DC-4FA8-A2EC-700BCD9A2E50/_LOCK
+CalendarA   511 narasimhanvenkadeswaran   37u      REG                1,8      745472               38621 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   38u      REG                1,8     1343152               38702 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   39u      REG                1,8           0            49307976 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.CalendarAgent/.LINKS/FE93D1CC-A696-4E50-B896-66CAFEA867A2/_LOCK
+CalendarA   511 narasimhanvenkadeswaran   40u      REG                1,8           0            49307978 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.CalendarAgent/.LINKS/2827E520-1AC7-4ADE-AC26-43D5342BBAD1/_LOCK
+CalendarA   511 narasimhanvenkadeswaran   41u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   42u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran   43   NPOLICY                                                    
+CalendarA   511 narasimhanvenkadeswaran   44u      REG                1,8     1286144             3366599 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   45u    systm 0xf92d2eccc0769431         0t0                     [ctl com.apple.netsrc id 6 unit 27]
+CalendarA   511 narasimhanvenkadeswaran   46u      REG                1,8     1825192             3366603 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   47u      REG                1,8      745472               38621 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   48u      REG                1,8           0            49308276 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.CalendarAgent/.LINKS/600EBD8A-F37D-4087-8826-0E6EBC185680/_LOCK
+CalendarA   511 narasimhanvenkadeswaran   49u      REG                1,8     1286144             3366599 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   50u      REG                1,8           0            49308278 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.CalendarAgent/.LINKS/31F969A5-62D3-4D8D-AED5-98048580FC2C/_LOCK
+CalendarA   511 narasimhanvenkadeswaran   51u      REG                1,8     1825192             3366603 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/D5689770-2ED8-4F55-955E-906A7D6CB5C9/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   52u      REG                1,8           0            49308296 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/T/com.apple.CalendarAgent/.LINKS/0ADF6300-2026-4865-873F-359911B86CDE/_LOCK
+CalendarA   511 narasimhanvenkadeswaran   53u      REG                1,8     1830912             7991426 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   54u      REG                1,8     1186592             7991430 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   55u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   56u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   57u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran   58u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   59u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran   60u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran   61u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   62u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran   63u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   64u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran   65u      REG                1,8     1343152               38702 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   66u      REG                1,8      745472               38621 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   67u      REG                1,8     1343152               38702 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   68u      REG                1,8     1830912             7991426 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb
+CalendarA   511 narasimhanvenkadeswaran   69u      REG                1,8     1186592             7991430 /Users/narasimhanvenkadeswaran/Library/Application Support/AddressBook/Sources/1EE86DCC-1073-4E58-9426-00D5254BF296/AddressBook-v22.abcddb-wal
+CalendarA   511 narasimhanvenkadeswaran   70u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   71u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran   72u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   73u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran   74u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   75u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   76u      REG                1,8      374952               38692 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache-wal
+CalendarA   511 narasimhanvenkadeswaran   77u      REG                1,8     1159168             3366685 /Users/narasimhanvenkadeswaran/Library/Containers/com.apple.CalendarAgent/Data/Library/Caches/com.apple.CalendarAgent/Cache.db
+CalendarA   511 narasimhanvenkadeswaran   78u      REG                1,8      927032             3366688 /Users/narasimhanvenkadeswaran/Library/Containers/com.apple.CalendarAgent/Data/Library/Caches/com.apple.CalendarAgent/Cache.db-wal
+CalendarA   511 narasimhanvenkadeswaran   80u      REG                1,8       32768             3366689 /Users/narasimhanvenkadeswaran/Library/Containers/com.apple.CalendarAgent/Data/Library/Caches/com.apple.CalendarAgent/Cache.db-shm
+CalendarA   511 narasimhanvenkadeswaran   81u      REG                1,8     1159168             3366685 /Users/narasimhanvenkadeswaran/Library/Containers/com.apple.CalendarAgent/Data/Library/Caches/com.apple.CalendarAgent/Cache.db
+CalendarA   511 narasimhanvenkadeswaran   82u      REG                1,8      927032             3366688 /Users/narasimhanvenkadeswaran/Library/Containers/com.apple.CalendarAgent/Data/Library/Caches/com.apple.CalendarAgent/Cache.db-wal
+CalendarA   511 narasimhanvenkadeswaran   83u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   86u      REG                1,8    11730944               38675 /Users/narasimhanvenkadeswaran/Library/Calendars/Calendar Cache
+CalendarA   511 narasimhanvenkadeswaran   90r      REG                1,8      118977 1152921500312258533 /System/Library/Frameworks/CoreImage.framework/Versions/A/Resources/ci_stdlib.metallib
+CalendarA   511 narasimhanvenkadeswaran   91r      REG                1,8      320632 1152921500312258531 /System/Library/Frameworks/CoreImage.framework/Versions/A/Resources/ci_filters.metallib
+CalendarA   511 narasimhanvenkadeswaran   92r      REG                1,8    13404114 1152921500312277913 /System/Library/Frameworks/MetalPerformanceShaders.framework/Versions/A/Frameworks/MPSImage.framework/Versions/A/Resources/default.metallib
+CalendarA   511 narasimhanvenkadeswaran   93u      REG                1,8      167936             6611530 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.CalendarAgent/com.apple.CalendarAgent/com.apple.metal/31001/libraries.data
+CalendarA   511 narasimhanvenkadeswaran   94u      REG                1,8         940            49422003 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.CalendarAgent/com.apple.CalendarAgent/com.apple.metal/31001/libraries.list
+CalendarA   511 narasimhanvenkadeswaran   95u      REG                1,8      172032             6611533 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.CalendarAgent/com.apple.CalendarAgent/com.apple.metal/16777237_9765376/functions.data
+CalendarA   511 narasimhanvenkadeswaran   96u      REG                1,8         548            49422004 /private/var/folders/mq/jfm0xbvj183fw3cw8g8k28540000gp/C/com.apple.CalendarAgent/com.apple.CalendarAgent/com.apple.metal/16777237_9765376/functions.list
+WiFiAgent   513 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8      585184 1152921500312202261 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8      136152 1152921500312198341 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/SystemAppearance.car
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8       71320 1152921500312198327 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/FauxVibrantDark.car
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8      268144 1152921500312767040 /usr/lib/libobjc-trampolines.dylib
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8      228968 1152921500312198335 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/FunctionRowAppearance.car
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8     1079048 1152921500312372189 /System/Library/Keyboard Layouts/AppleKeyboardLayouts.bundle/Contents/Resources/AppleKeyboardLayouts-L.dat
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8      124816            45442336 /System/Library/Caches/com.apple.IntlDataCache.le.kbdx
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8     6296632 1152921500312198317 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/DarkAqua.car
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8     5305704 1152921500312198345 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/VibrantDark.car
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8     6380584 1152921500312198307 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Aqua.car
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+WiFiAgent   513 narasimhanvenkadeswaran  txt       REG                1,8   159658712 1152921500312148911 /System/Library/CoreServices/CoreGlyphs.bundle/Contents/Resources/Assets.car
+WiFiAgent   513 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+WiFiAgent   513 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+WiFiAgent   513 narasimhanvenkadeswaran    2u      CHR                3,2       0t217                 317 /dev/null
+WiFiAgent   513 narasimhanvenkadeswaran    3w      CHR               21,9         0t0                 603 /dev/io8log
+WiFiAgent   513 narasimhanvenkadeswaran    4w      CHR              21,10     0t36374                 605 /dev/io8logtemp
+WiFiAgent   513 narasimhanvenkadeswaran    5u     IPv4 0xf92d2ebffa816431         0t0                 UDP *:*
+WiFiAgent   513 narasimhanvenkadeswaran    6   NPOLICY                                                    
+secinitd    515 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+secinitd    515 narasimhanvenkadeswaran  txt       REG                1,8      229568 1152921500312773418 /usr/libexec/secinitd
+secinitd    515 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+secinitd    515 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+secinitd    515 narasimhanvenkadeswaran  txt       REG                1,8      417344 1152921500312352462 /System/Library/Frameworks/Security.framework/Versions/A/PlugIns/csparser.bundle/Contents/MacOS/csparser
+secinitd    515 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+secinitd    515 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+secinitd    515 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+secinitd    515 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+secinitd    515 narasimhanvenkadeswaran    2u      CHR                3,2         0t0                 317 /dev/null
+identitys   516 narasimhanvenkadeswaran  cwd       DIR                1,8         640                   2 /
+identitys   516 narasimhanvenkadeswaran  txt       REG                1,8    15271568 1152921500312537782 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+identitys   516 narasimhanvenkadeswaran  txt       REG                1,8       36716            49307032 /Library/Preferences/Logging/.plist-cache.yBz6xlO1
+identitys   516 narasimhanvenkadeswaran  txt       REG                1,8    33154432 1152921500312778378 /usr/share/icu/icudt66l.dat
+identitys   516 narasimhanvenkadeswaran  txt       REG                1,8      268144 1152921500312767040 /usr/lib/libobjc-trampolines.dylib
+identitys   516 narasimhanvenkadeswaran  txt       REG                1,8       32768            48920739 /private/var/db/mds/messages/502/se_SecurityMessages
+identitys   516 narasimhanvenkadeswaran  txt       REG                1,8       32768             6484511 /Users/narasimhanvenkadeswaran/Library/IdentityServices/PDS/PDSCDCache-shm
+identitys   516 narasimhanvenkadeswaran  txt       REG                1,8       32768               39281 /Users/narasimhanvenkadeswaran/Library/IdentityServices/ids.db-shm
+identitys   516 narasimhanvenkadeswaran  txt       REG                1,8       86531            49519445 /private/var/db/analyticsd/events.whitelist
+identitys   516 narasimhanvenkadeswaran  txt       REG                1,8       32768             7992510 /Users/narasimhanvenkadeswaran/Library/IdentityServices/ids-hashes-identityservicesd.db-shm
+identitys   516 narasimhanvenkadeswaran  txt       REG                1,8       32768             7992301 /Users/narasimhanvenkadeswaran/Library/IdentityServices/NGMTrustStore-identityservicesd.db-shm
+identitys   516 narasimhanvenkadeswaran  txt       REG                1,8      240720            46175915 /private/var/db/timezone/tz/2022a.1.0/icutz/icutz44l.dat
+identitys   516 narasimhanvenkadeswaran  txt       REG                1,8     2547856 1152921500312767019 /usr/lib/dyld
+identitys   516 narasimhanvenkadeswaran    0r      CHR                3,2         0t0                 317 /dev/null
+identitys   516 narasimhanvenkadeswaran    1u      CHR                3,2         0t0                 317 /dev/null
+identitys   516 narasimhanvenkadeswaran    2u      CHR                3,2       0t565                 317 /dev/null
+identitys   516 narasimhanvenkadeswaran    3   NPOLICY                                                    
+identitys   516 narasimhanvenkadeswaran    4u     unix 0xf92d2ebffd415b89         0t0                     ->0xf92d2ebffd415c51
+identitys   516 narasimhanvenkadeswaran    5u     unix 0xf92d2ebffd415c51         0t0                     ->0xf92d2ebffd415b89
+identitys   516 narasimhanvenkadeswaran    6u   KQUEUE                                                    count=0, state=0xa
+identitys   516 narasimhanvenkadeswaran    7u     unix 0xf92d2ebffd416f11         0t0                     ->0xf92d2ebffd416fd9
+identitys   516 narasimhanvenkadeswaran    8u     unix 0xf92d2ebffd416fd9         0t0                     ->0xf92d2ebffd416f11
+identitys   516 narasimhanvenkadeswaran    9u   KQUEUE                                                    count=0, state=0xa
+identitys   516 narasimhanvenkadeswaran   10u     unix 0xf92d2ebffd4170a1         0t0                     ->0xf92d2ebffd417169
+identitys   516 narasimhanvenkadeswaran   11u     unix 0xf92d2ebffd417169         0t0                     ->0xf92d2ebffd4170a1
+identitys   516 narasimhanvenkadeswaran   12u   KQUEUE                                                    count=0, state=0xa
+identitys   516 narasimhanvenkadeswaran   13u     unix 0xf92d2ebffd417231         0t0                     ->0xf92d2ebffd4172f9
+identitys   516 narasimhanvenkadeswaran   14u     unix 0xf92d2ebffd4172f9         0t0                     ->0xf92d2ebffd417231
+identitys   516 narasimhanvenkadeswaran   15u   KQUEUE                                                    count=0, state=0xa
+identitys   516 narasimhanvenkadeswaran   16u    systm 0xf92d2eccc0c3d4b1         0t0                     [ctl com.apple.net.utun_control id 4 unit 1]
+identitys   516 narasimhanvenkadeswaran   17u    systm 0xf92d2eccc0c3d4b1         0t0                     [ctl com.apple.net.utun_control id 4 unit 1]
+identitys   516 narasimhanvenkadeswaran   18      CHAN              kpipe                                 F0A4AD2C-32D4-45A3-A036-5628677E5DA5[0] 
+identitys   516 narasimhanvenkadeswaran   19u    systm 0xf92d2eccc0e6cab1         0t0                     [ctl com.apple.netsrc id 6 unit 13]
+identitys   516 narasimhanvenkadeswaran   20u      REG                1,8       49152             6484504 /Users/narasimhanvenkadeswaran/Library/IdentityServices/PDS/PDSCDCache
+identitys   516 narasimhanvenkadeswaran   21u      REG                1,8       12392             6484510 /Users/narasimhanvenkadeswaran/Library/IdentityServices/PDS/PDSCDCache-wal
+identitys   516 narasimhanvenkadeswaran   22u      REG                1,8       32768             6484511 /Users/narasimhanvenkadeswaran/Library/IdentityServices/PDS/PDSCDCache-shm
+identitys   516 narasimhanvenkadeswaran   23     NEXUS                                                    
+identitys   516 narasimhanvenkadeswaran   24u   
